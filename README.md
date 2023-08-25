@@ -6,7 +6,7 @@ An e-commerce back end for a retail company.
 Follow your entrepreneurial dreams with this ORM e-commerce backend.
 
 ### Screenshots
-
+![screenshot](image.png)
 
 ## Table of Contents
 
@@ -30,6 +30,7 @@ Jacob Carver
 
 ## Questions
 
-- video link: https://drive.google.com/file/d/1zIYE1F6R8UMvIKaECtHsJcKfDI29WAEB/view
+- video link: https://drive.google.com/file/d/1gcFnk9bfwA1r6ZBu07tCK3n1sl_teCDa/view
 - email: walterdanteconwelljr@gmail.com
 - GitHub: Walter-Conwell
+- repo: https://github.com/Walter-Conwell/ormECommerceBackEnd
