@@ -3,7 +3,7 @@ An e-commerce back end for a retail company.
 
 ## Description
 
-An ecommerce backend that uses object relational mapping.
+Follow your entrepreneurial dreams with this ORM e-commerce backend.
 
 ### Screenshots
 
@@ -32,3 +32,4 @@ Jacob Carver
 
 - video link: https://drive.google.com/file/d/1zIYE1F6R8UMvIKaECtHsJcKfDI29WAEB/view
 - email: walterdanteconwelljr@gmail.com
+- GitHub: Walter-Conwell
